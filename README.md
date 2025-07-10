@@ -92,4 +92,12 @@ Just weird, sovereign AI for the public.
 
 ---
 
+## 🔐 Security Notice
+
+NeuroBloop is in active development.  
+While it is open for public review, **no code has been released yet**.  
+We are taking steps to ensure safety, non-exploitability, and ethical alignment before public deployment.
+
+Please report concerns or suggestions to: glitchlab.tech@gmail.com
+
 > *“It blooped. It thinks now.”*
