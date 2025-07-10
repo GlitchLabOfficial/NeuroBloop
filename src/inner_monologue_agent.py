@@ -1,4 +1,5 @@
-```python
+# Core Agent Framework: A simple agent with perception, reasoning, and action modules.
+# This code is designed to be modular and extensible, allowing for future enhancements.
 class CoreAgent:
     def __init__(self):
         # Modular structure: Key components
@@ -43,4 +44,3 @@ agent = CoreAgent()
 agent.memory['past_knowledge'] = "Hello world basics."
 response = agent.run("What is the meaning of life?")
 print(response)
-```
